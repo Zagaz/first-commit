@@ -2,7 +2,7 @@
 This series of commands is a common sequence used when setting up a new Git repository and pushing it to a remote repository on GitHub. Let's break down each step:
 
 ```shell
-    echo "# wp-my-innerblocks" >> README.md
+    echo "# your-repository-name" >> README.md
     git init
     git add README.md
     git commit -m "first commit"
